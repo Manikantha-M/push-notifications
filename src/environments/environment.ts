@@ -12,7 +12,7 @@ export const environment = {
     messagingSenderId: "350655918298",
     appId: "1:350655918298:web:604134a5671b30935435e3",
     measurementId: "G-BJNG5VYP8G",
-    vpaidKey:"BKwICXOio_LJdlyVOfvmzcmXprqlW0ua8mpGfdSHSLg1wj5bktT4HCxrZy2YfOU_izo_6a8pWCEtiveUX3q3d3k"
+    vapidKey:"BKwICXOio_LJdlyVOfvmzcmXprqlW0ua8mpGfdSHSLg1wj5bktT4HCxrZy2YfOU_izo_6a8pWCEtiveUX3q3d3k"
   }
 };
 
